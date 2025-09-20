@@ -17,6 +17,25 @@ Fast, minimal keymap by **Er Rajat Gupta** that speeds up everyday editing with 
 ## Pricing
 This extension is **totally free** for everyone. It contains only keybindings (no running code).
 
+## 🖼 Screenshots
+
+> These images show the actual updates and the type of changes included in this release.
+
+<p align="center">
+  <img src="media/screenshot/one.png" alt="T-Lib: Command Palette remap (Ctrl+. )" width="32%">
+  <img src="media/screenshot/two.png" alt="T-Lib: Copy/Move lines shortcuts" width="32%">
+  <img src="media/screenshot/three.png" alt="T-Lib: Terminal toggle & Auto Save" width="32%">
+</p>
+
+## 🆕 What’s New (v1.0.9)
+- Added screenshots demonstrating remaps and behavior changes
+- Polished README with contact & website
+- Clarified that the extension is totally free (MIT)
+
+![Command Palette](media/screenshot/one.png)
+![Copy/Move Lines](media/screenshot/two.png)
+![Terminal & Auto Save](media/screenshot/three.png)
+
 
 
 ## Support & Contact
