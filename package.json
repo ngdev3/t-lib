@@ -2,7 +2,7 @@
   "name": "t-lib",
   "displayName": "Key Map T-Lib",
   "description": "Key Map of Technical Library — handy shortcuts and remaps for faster coding.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "RajatGupta",
   "license": "MIT",
   "engines": {
@@ -21,9 +21,15 @@
     "url": "https://github.com/ngdev3/t-lib.git"
   },
   "bugs": {
-    "url": "https://github.com/ngdev3/t-lib/issues"
+    "url": "https://github.com/ngdev3/t-lib/issues",
+    "email": "ai.rajatinvoice@gmail.com"
   },
-  "homepage": "https://github.com/ngdev3/t-lib",
+  "homepage": "https://errajat.in",
+  "author": {
+    "name": "Rajat Gupta",
+    "email": "ai.rajatinvoice@gmail.com",
+    "url": "https://errajat.in"
+  },
   "keywords": [
     "keymap",
     "shortcuts",

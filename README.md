@@ -1,10 +1,6 @@
 # Key Map T-Lib
 
 
-[![Marketplace](https://vsmarketplacebadges.dev/version-short/RajatGupta.t-lib.svg)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
-[![Installs](https://vsmarketplacebadges.dev/installs-short/RajatGupta.t-lib.svg)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
-[![GitHub stars](https://img.shields.io/github/stars/ngdev3/t-lib.svg?style=flat)](https://github.com/ngdev3/t-lib)
-[![Issues](https://img.shields.io/github/issues/ngdev3/t-lib.svg?style=flat)](https://github.com/ngdev3/t-lib/issues)
 
 
 
@@ -14,6 +10,16 @@ Fast, minimal keymap by **Er Rajat Gupta** that speeds up everyday editing with 
 [![Marketplace](https://img.shields.io/visual-studio-marketplace/v/RajatGupta.t-lib.png?logo=visualstudiocode&label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/RajatGupta.t-lib.png?label=Installs)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/RajatGupta.t-lib.png?label=Rating)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
+
+
+## Support & Contact
+
+If you find any issue or have a feature request, please visit my website or open an issue.
+
+- 🌐 Website: https://errajat.in
+- ✉️ Email: ai.rajatinvoice@gmail.com
+- 🐞 Issues: https://github.com/ngdev3/t-lib/issues
+
 
 
 
