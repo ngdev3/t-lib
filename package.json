@@ -1,15 +1,17 @@
 {
   "name": "t-lib",
   "displayName": "Key Map T-Lib",
-  "description": "Key Map of Technical Library — handy shortcuts and remaps for faster coding.",
-  "version": "1.0.5",
+  "description": "Free & open-source keymap of Technical Library — handy shortcuts and remaps for faster coding. Totally free.",
+  "version": "1.0.8",
   "publisher": "RajatGupta",
   "license": "MIT",
   "engines": {
     "vscode": "^1.90.0"
   },
   "categories": [
-    "Keymaps"
+    "Keymaps",
+    "Productivity",
+    "Other"
   ],
   "icon": "media/icon.png",
   "galleryBanner": {
@@ -32,11 +34,31 @@
   },
   "keywords": [
     "keymap",
+    "keymaps",
+    "key bindings",
+    "bindings",
     "shortcuts",
-    "productivity",
+    "shortcut",
+    "remap",
+    "mapping",
+    "copy line",
+    "move line",
+    "command palette",
     "terminal",
-    "lines",
-    "autosave"
+    "autosave",
+    "editor",
+    "developer productivity",
+    "productivity",
+    "vscode",
+    "vs code",
+    "lightweight",
+    "no telemetry",
+    "free",
+    "open-source",
+    "t-lib",
+    "errajat",
+    "errajat.in",
+    "Rajat Gupta"
   ],
   "contributes": {
     "keybindings": [
