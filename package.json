@@ -2,7 +2,7 @@
   "name": "t-lib",
   "displayName": "Key Map T-Lib",
   "description": "Key Map of Technical Library — handy shortcuts and remaps for faster coding.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "RajatGupta",
   "license": "MIT",
   "engines": {
