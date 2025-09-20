@@ -1,14 +1,36 @@
 {
   "name": "t-lib",
   "displayName": "Key Map T-Lib",
-  "description": "Key Map Of Techincal Library Key Stocks and Mapping",
-  "version": "1.0.1",
+  "description": "Key Map of Technical Library — handy shortcuts and remaps for faster coding.",
+  "version": "1.0.3",
   "publisher": "RajatGupta",
+  "license": "MIT",
   "engines": {
-    "vscode": "^1.104.0"
+    "vscode": "^1.90.0"
   },
   "categories": [
     "Keymaps"
+  ],
+  "icon": "media/icon.png",
+  "galleryBanner": {
+    "color": "#0f172a",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngdev3/t-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngdev3/t-lib/issues"
+  },
+  "homepage": "https://github.com/ngdev3/t-lib",
+  "keywords": [
+    "keymap",
+    "shortcuts",
+    "productivity",
+    "terminal",
+    "lines",
+    "autosave"
   ],
   "contributes": {
     "keybindings": [

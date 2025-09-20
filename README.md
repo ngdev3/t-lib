@@ -1,16 +1,34 @@
-# t-lib README
+# Key Map T-Lib
 
-## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+[![Marketplace](https://vsmarketplacebadges.dev/version-short/RajatGupta.t-lib.svg)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
+[![Installs](https://vsmarketplacebadges.dev/installs-short/RajatGupta.t-lib.svg)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
+[![GitHub stars](https://img.shields.io/github/stars/ngdev3/t-lib.svg?style=flat)](https://github.com/ngdev3/t-lib)
+[![Issues](https://img.shields.io/github/issues/ngdev3/t-lib.svg?style=flat)](https://github.com/ngdev3/t-lib/issues)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Fast, minimal keymap by **Er Rajat Gupta** that speeds up everyday editing with smarter line copy/move, quick terminal toggle, and one-tap autosave.
 
-**Enjoy!**
+[![Marketplace](https://vsmarketplacebadges.dev/version-short/RajatGupta.t-lib.svg)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
+[![Installs](https://vsmarketplacebadges.dev/installs-short/RajatGupta.t-lib.svg)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
+[![Rating](https://vsmarketplacebadges.dev/rating-star/RajatGupta.t-lib.svg)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
+
+## ✨ What you get
+
+| Action | Shortcut |
+| --- | --- |
+| **Show Command Palette** | `Ctrl + .` |
+| **Copy line down / up** | `Ctrl + Shift + ↓` / `Ctrl + Shift + ↑` |
+| **Move line down / up** | `Shift + Alt + ↓` / `Shift + Alt + ↑` |
+| **Toggle Auto Save** | `Alt + A` |
+| **Toggle Terminal** | `Ctrl + Q` |
+| *(Unbound defaults)* Backtick terminal / Alt+Arrow copy/move | removed |
+
+> Heads-up: `Ctrl + .` normally triggers *Quick Fix* in VS Code. This keymap reassigns it to the **Command Palette**.
+
+## 🖼 Icon & Screenshots
+- Icon: `media/icon.png` (128×128)
+- Add screenshots to `media/` and reference them:
+  ```md
+  ![Icon](media/icon.png)
