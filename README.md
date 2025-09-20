@@ -10,9 +10,12 @@
 
 Fast, minimal keymap by **Er Rajat Gupta** that speeds up everyday editing with smarter line copy/move, quick terminal toggle, and one-tap autosave.
 
-[![Marketplace](https://vsmarketplacebadges.dev/version-short/RajatGupta.t-lib.svg)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
-[![Installs](https://vsmarketplacebadges.dev/installs-short/RajatGupta.t-lib.svg)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
-[![Rating](https://vsmarketplacebadges.dev/rating-star/RajatGupta.t-lib.svg)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
+
+[![Marketplace](https://img.shields.io/visual-studio-marketplace/v/RajatGupta.t-lib.png?logo=visualstudiocode&label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/RajatGupta.t-lib.png?label=Installs)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/RajatGupta.t-lib.png?label=Rating)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
+
+
 
 ## ✨ What you get
 
