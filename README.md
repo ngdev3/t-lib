@@ -10,6 +10,13 @@ Fast, minimal keymap by **Er Rajat Gupta** that speeds up everyday editing with 
 [![Marketplace](https://img.shields.io/visual-studio-marketplace/v/RajatGupta.t-lib.png?logo=visualstudiocode&label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/RajatGupta.t-lib.png?label=Installs)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/RajatGupta.t-lib.png?label=Rating)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
+[![Price](https://img.shields.io/badge/Price-Free-brightgreen.png)](https://marketplace.visualstudio.com/items?itemName=RajatGupta.t-lib)
+
+> This extension is **100% free** and **open-source**. No paywalls, no ads, no telemetry—just keybindings.
+
+## Pricing
+This extension is **totally free** for everyone. It contains only keybindings (no running code).
+
 
 
 ## Support & Contact

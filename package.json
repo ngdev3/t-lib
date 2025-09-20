@@ -2,7 +2,7 @@
   "name": "t-lib",
   "displayName": "Key Map T-Lib",
   "description": "Free & open-source keymap of Technical Library — handy shortcuts and remaps for faster coding. Totally free.",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "publisher": "RajatGupta",
   "license": "MIT",
   "engines": {
@@ -48,7 +48,6 @@
     "autosave",
     "editor",
     "developer productivity",
-    "productivity",
     "vscode",
     "vs code",
     "lightweight",
